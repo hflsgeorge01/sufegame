@@ -1,0 +1,12 @@
+name: shinytesting
+title: shinytesting
+username:
+account: hflsgeorge01
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2171325
+bundleId: 3055383
+url: https://hflsgeorge01.shinyapps.io/shinytesting/
+when: 1587656866.6512
+asMultiple: FALSE
+asStatic: FALSE
